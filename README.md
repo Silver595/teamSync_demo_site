@@ -57,8 +57,5 @@ Visit `http://localhost:5173` to see the site in action.
 - Authentication system for users
 - Improved animations and transitions
 
-## 📧 Contact
-For inquiries, contact us at **hey@email.com**.
-
 ---
 🔨 This project is under development and will be updated frequently!
